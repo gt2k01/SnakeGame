@@ -1,2 +1,2 @@
 # SnakeGame
-The Snake Gamee cpp file is in the master branch. Clone it and enjoy it.
+The Snake Game cpp file is in the master branch. Clone it and enjoy it.
